@@ -2,7 +2,7 @@ import re
 import tkinter as tk
 from tkinter import filedialog, messagebox
 
-# Product version
+# Product version btncl#2e8b57sam-1
 STATIC_EMAIL = ""
 STATIC_PASSWORD = ""
 
