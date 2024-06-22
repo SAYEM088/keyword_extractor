@@ -10,7 +10,7 @@ we will refine and able to extract name :
                 
                 output : "Indian Rogan Josh Lamb Quesadilla"
                 
-again have look at another example:
+again a have look at another example:
 
                 "\codeblack92_Mango_Pineapple_Cupcake_Creation_21c76fb6-9f38-44fa-bfb3-5cbf6a7f2344_block_1_1.jpg"
                  output : "Mango Pineapple Cupcake Creation"
