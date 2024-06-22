@@ -17,4 +17,4 @@ again  have a look at another example:
 
 
 That means there is no pattern of the data, and we dont need any instruction from user,
-additionally if any user want to erase any name we have and field for that.
+additionally if any user want to erase any name we have an field for that.
